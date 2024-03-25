@@ -1,0 +1,14 @@
+2023-05-21 16:23:32
+CDs: 001
+Center (410): [504.429 398.509]
+First (703): [533.404 374.362]
+Second (527): [531.326 429.182]
+Final (330): [560.439 405.314]
+a: 37.717
+b: 40.795
+Length difference: 3.078
+Degrees: 88.559
+Lattice: op
+2D space group: p2gg
+
+
